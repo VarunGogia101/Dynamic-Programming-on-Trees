@@ -11,6 +11,8 @@ Given above is a diagram of a tree with N=14 nodes and N-1=13 edges. The values 
 
 The diagram below shows all the paths from root to leaves :
 
+# file:///home/varun/Desktop/All_Paths.png
+
 
 
 All the paths are marked by different colors :
